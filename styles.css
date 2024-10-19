@@ -117,6 +117,15 @@ li:hover {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  color: hsl(0, 0%, 100%);
+  font-size: 0.8rem;
+  padding: 1rem;
+}
 @media (max-width: 375px) {
   .card {
     width: 20rem;
